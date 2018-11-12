@@ -1,6 +1,3 @@
-/*
- * Copyright 2018 Applied Card Technologies Ltd
- */
 package Controllers;
 
 import static com.mongodb.client.model.Filters.*;

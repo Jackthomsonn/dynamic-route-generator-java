@@ -1,6 +1,3 @@
-/*
- * Copyright 2018 Applied Card Technologies Ltd
- */
 package Controllers;
 
 import java.util.List;
